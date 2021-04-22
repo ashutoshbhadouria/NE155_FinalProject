@@ -4,9 +4,9 @@ This repository is created for NE155 Final Project Assignment. The goal of the p
 
 The project files are divided into 3 parts:
 
-iterative_solvers: This file contains iterative solvers for Ax=b linear systems. It has three algortims: Jacobi, SOR and gauss sedidel
+iterative_solvers.ipynb: This file contains iterative solvers for Ax=b linear systems. It has three algortims: Jacobi, SOR and gauss sedidel
 
-2Dsolver.ipybn: This file contains algorithm that solves the discretized Finite Volume equations. It uses the iterative solvers to obtain solutions for fluxes in cell
+2Dsolver.ipynb: This file contains algorithm that solves the discretized Finite Volume equations. It uses the iterative solvers to obtain solutions for fluxes in cell
 
-2Dtests.ipybn: This file is a demo that contains visualizations as a way to validate and test the code
+2Dtests.ipynb: This file is a demo that contains visualizations as a way to validate and test the code
 
