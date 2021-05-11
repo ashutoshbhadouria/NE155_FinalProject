@@ -10,3 +10,5 @@ iterative_solvers.ipynb: This file contains iterative solvers for Ax=b linear sy
 
 2Dtests.ipynb: This file is a demo that contains visualizations as a way to validate and test the code
 
+References: A. Mitra, Jiang Z., Duderstadt J and Hamilton, Professor R. Slaybaugh  
+
